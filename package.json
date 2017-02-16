@@ -1,6 +1,6 @@
 {
   "name": "connect-session-sequelize",
-  "version": "4.1.1-p4",
+  "version": "4.1.1-p5",
   "description": "Session store for connect-session using sequelize",
   "homepage": "https://github.com/mweibel/connect-session-sequelize",
   "bugs": "https://github.com/mweibel/connect-session-sequelize/issues",
@@ -20,12 +20,12 @@
   "devDependencies": {
     "express-session": "^1.10.3",
     "mocha": "^3.0.0",
-    "sequelize": "github:leonis/sequelize.git#v3.25.0-p5",
+    "sequelize": "github:leonis/sequelize.git#v3.25.0-p6",
     "sqlite3": "^3.1.4",
     "standard": "^8.2.0"
   },
   "peerDependencies": {
-    "sequelize": "github:leonis/sequelize.git#v3.25.0-p5"
+    "sequelize": "github:leonis/sequelize.git#v3.25.0-p6"
   },
   "engines": {
     "node": "*"
